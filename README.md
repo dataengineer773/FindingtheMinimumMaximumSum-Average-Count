@@ -1,0 +1,2 @@
+We want to find the min, max, sum, average, or count of a numeric column, pandas comes with some built-in methods for commonly used descriptive statistics such as min, max,mean, sum and count In addition to the statistics used in the solution, pandas offers variance (var), standard deviation (std),
+kurtosis (kurt), skewness (skew), standard error of the mean (sem), mode (mode), median (median),value counts, and a number of others.Furthermore, we can also apply these methods to the whole DataFrame
